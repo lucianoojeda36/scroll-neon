@@ -3,7 +3,7 @@
 </h1>
 
 
-# Profile Card
+# Neon Scroll Bar
 this is a page project developed to show a neon scroll bar,it was used for the same css.
 
 ## 💻 Project
